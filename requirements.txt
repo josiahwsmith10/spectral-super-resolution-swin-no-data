@@ -1,0 +1,8 @@
+numpy
+complextorch
+timm
+scipy
+pandas
+tabulate
+tqdm
+tensorboard
